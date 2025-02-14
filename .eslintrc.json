@@ -1,0 +1,10 @@
+{
+  "extends": ["react-app"],
+  "rules": {
+    // Only show warnings for unused variables or functions
+    "no-unused-vars": "warn"
+
+    // You can explicitly override other rules here if needed
+    // "some-other-rule": "warn"
+  }
+}
